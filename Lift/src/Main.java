@@ -34,11 +34,6 @@ public class Main{
     }
 }
 
-// zebra(ds):
-
-// def zebra(a, b):
-//     fsdfsd dfs dfdf
-    
 
 
 
